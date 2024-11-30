@@ -1,1 +1,1 @@
-- [Vertex AI instans](https://console.cloud.google.com/vertex-ai/workbench/instances?hl=en&inv=1&invt=Abi40w&project=id2223group14)
+- [Vertex AI instans](https://console.cloud.google.com/vertex-ai/workbench/instances)
