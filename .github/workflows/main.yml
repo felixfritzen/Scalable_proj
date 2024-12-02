@@ -40,7 +40,7 @@ jobs:
           commit_message: "Dashboard published"
           commit_options: '--no-verify --signoff'
 
-          file_pattern: 'clusters/*.png'
+          file_pattern: 'docs/*.png'
 
           repository: .
 
