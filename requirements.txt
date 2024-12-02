@@ -1,6 +1,7 @@
 # Feature store and model registry
 hopsworks
 numpy
+"hopsworks[python]" pyarrow
 sentence_transformers
 jupyter
 Pillow  # Correct package name for PIL
