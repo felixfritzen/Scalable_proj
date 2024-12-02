@@ -2,7 +2,7 @@
 hopsworks
 numpy
 sentence_transformers
-PIL
+Pillow  # Correct package name for PIL
 pandas
 scikit-learn==1.4.1.post1
 requests
