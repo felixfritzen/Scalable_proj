@@ -15,7 +15,7 @@
 
 ## Development links
 - [Vertex AI instans](https://console.cloud.google.com/vertex-ai/workbench/instances)
-- [Code for the project](https://console.cloud.google.com/vertex-ai/workbench/instances**)
+- [Code for the project](https://github.com/felixfritzen/Scalable_proj)
 
 ## Report
 The aim of this project is to implement clustering and feature extraction to aid classification of news to uncover patterns and trends in news data. The goal was to create a platform that could cluster similar news items and provide meaningful insights into their relationships allowing users to obtain personalized recommendations of news articles based on their needs.
