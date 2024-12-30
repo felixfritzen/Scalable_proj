@@ -2,8 +2,8 @@ name: headlines-daily
 
 on:
   workflow_dispatch:
-    #schedule:
-    #- cron: '11 6 * * *'
+  schedule:
+    - cron: '0 18 * * 1'
 
 jobs:
   schedule_pipelines:
